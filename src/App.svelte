@@ -18,5 +18,5 @@
     </p>
   </div>
   <Tasks />
-  <!--aqui o componente é incluído-->
+  <!--aqui o componente é incluído e -->
 </section>
